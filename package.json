@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "remotion studio src/index.ts",
     "studio": "remotion studio src/index.ts",
     "build": "remotion render src/index.ts HelloWorld out/HelloWorld.mp4",
     "preview": "remotion preview src/index.ts"
