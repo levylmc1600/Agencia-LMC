@@ -1,0 +1,20 @@
+{
+  "name": "phone-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "remotion studio",
+    "render": "remotion render PhoneNotification out/phone-notification.mp4",
+    "preview": "remotion studio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "^4.0.458",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "remotion": "^4.0.458"
+  }
+}
