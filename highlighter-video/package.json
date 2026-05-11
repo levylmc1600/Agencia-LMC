@@ -1,0 +1,11 @@
+{
+  "name": "highlighter-video",
+  "version": "1.0.0",
+  "scripts": {
+    "ocr": "node src/ocr.js",
+    "build": "node src/build.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
